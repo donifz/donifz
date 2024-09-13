@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donifz
-- 👀 I’m interested in Frontend
+- 👀 I’m Frontend developer
 
 <!---
 donifz/donifz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
